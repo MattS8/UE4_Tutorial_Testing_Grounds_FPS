@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-S05_TestingGrounds.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\S05_TestingGroundsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGrounds.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsCharacter.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsGameMode.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsHUD.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsProjectile.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGrounds.init.gen.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsCharacter.gen.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsGameMode.gen.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsHUD.gen.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsProjectile.gen.cpp.obj"
+"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\Default.rc2.res"
+/OUT:"C:\Users\matth\Local\Unreal Projects\testing_grounds\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\UE4Editor-S05_TestingGrounds.lib"
+/INCLUDE:IMPLEMENT_MODULE_S05_TestingGrounds
